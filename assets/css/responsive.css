@@ -1,0 +1,33 @@
+@media (max-width:600px){
+    .login_contenedor{
+        border:none;
+        box-shadow: none;
+        width: 100%;
+    }
+    .login_contenedor{
+        width: 100%;
+    }
+    .input{
+        width: 100%;
+    }
+    .boton{
+        width: 100%;
+    }
+    .login_contenedor_recuerdame{
+        width: 100%;
+    }
+}
+
+
+@media (max-width:600px){
+    .footer{
+       display: block;
+       padding-top: 0;
+    }
+    .footer a{
+        display: block;
+    }
+    .footer a:hover{
+        text-decoration: underline;
+    }
+}
